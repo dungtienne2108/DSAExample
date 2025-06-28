@@ -10,13 +10,13 @@ internal class Program
         while (true)
         {
             Console.WriteLine("\n--- Music Playlist Menu ---");
-            Console.WriteLine("1. Add Song");
-            Console.WriteLine("2. Display Playlist");
-            Console.WriteLine("3. Search Song");
-            Console.WriteLine("4. Remove Song");
-            Console.WriteLine("5. Update Song");
-            Console.WriteLine("6. Exit");
-            Console.Write("Choose an option: ");
+            Console.WriteLine("1. Thêm bài hát");
+            Console.WriteLine("2. Hiển thị danh sách");
+            Console.WriteLine("3. Tìm kiếm bài hát");
+            Console.WriteLine("4. Xóa bài hát");
+            Console.WriteLine("5. Cập nhật bài hát");
+            Console.WriteLine("6. THoát");
+            Console.Write("Vui lòng chọn : ");
 
             string choice = Console.ReadLine();
 
