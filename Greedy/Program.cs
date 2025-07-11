@@ -58,7 +58,7 @@
 
             var selected = SelectActivities(activities);
 
-            Console.WriteLine("Selected Activities:");
+            Console.WriteLine("Hoạt động:");
             foreach (var activity in selected)
             {
                 Console.WriteLine(activity);
